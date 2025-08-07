@@ -1,6 +1,6 @@
 # 🛡️ LLM-Powered Insurance Policy Assistant
 
-This is a full-stack project that helps users upload their insurance policy documents (PDF/DOCX), ask natural language questions about coverage, and get intelligent answers using LLMs like **Gemini** or **GROQ**.
+This is a full-stack project that helps users upload their insurance policy documents (PDF/DOCX), ask natural language questions about coverage, and get intelligent answers using LLMs like **Gemini**.
 
 ---
 
